@@ -14,8 +14,7 @@ export default {
     data: t.arrayOf(Object),
     position: t.object.def({
       width: '25vw',
-      height: '100vh',
-      
+      height: '100vh'
     })
   },
   computed: {
